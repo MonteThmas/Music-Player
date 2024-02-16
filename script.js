@@ -14,8 +14,8 @@ const nextBtn = document.getElementById('next');
 //Music
 const song = [
     {
-        name: 'atdatime',
-        displayName: "Kill Ya Groove",
+        name: 'thoughts',
+        displayName: "Thoughts",
         artist: 'MontéSpeaks',
     },
     {
@@ -24,13 +24,28 @@ const song = [
         artist: 'MontéSpeaks',
     },
     {
+        name: 'doitforme',
+        displayName: "Do it For Me (ft Wickit)",
+        artist: 'MontéSpeaks',
+    },
+    {
+        name: 'atdatime',
+        displayName: "Kill Ya Groove",
+        artist: 'MontéSpeaks',
+    },
+    {
+        name: 'gospel',
+        displayName: "Gospel",
+        artist: 'MontéSpeaks',
+    },
+    {
         name: 'lookinback',
         displayName: "Lookin' Back",
         artist: 'MontéSpeaks',
     },
     {
-        name: 'thoughts',
-        displayName: "Thoughts",
+        name: 'imgood',
+        displayName: "Im Good",
         artist: 'MontéSpeaks',
     },
 ];
