@@ -68,7 +68,7 @@ function loadSong(song) {
     title.textContent = song.displayName;
     artist.textContent = song.artist;
     music.src = `music/${song.name}.mp3`;
-    image.src = `img/${song.name}.jpg`
+    image.src = `img/${song.name}.JPG`
 }
 
 //Current Song
